@@ -1,6 +1,6 @@
 {
-    "name": "dacastro4/laravel-gmail",
-    "description": "Gmail API package for Laravel",
+    "name": "joshvand/laravel-gmail",
+    "description": "Gmail API package for Laravel. Forked from dacastro4/laravel-gmail",
     "keywords": [
         "api",
         "laravel",
@@ -10,7 +10,6 @@
     "authors": [
         {
             "name": "Daniel Castro",
-            "email": "danielcastro04@gmail.com",
             "homepage": "https://danielcastro.dev"
         }
     ],
